@@ -2,6 +2,5 @@
     "Test_Key_01": "I have %s books",
     "Test_Key_02": "Updated : Yes",
     "Test_Key_03": "Updated - No",
-    "Test_Key_04": "Save {{something}}",
-    "Test_Key_05": "Hello world!"
+    "Test_Key_04": "Save {{something}}"
 }
