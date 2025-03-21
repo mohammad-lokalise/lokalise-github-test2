@@ -1,7 +1,7 @@
 {
     "Test_Key_01": "I have %s books",
     "Test_Key_02": "Updated - YES",
-    "Test_Key_04": "Updated - NO",
-    "Test_Key_05": "Save",
-    "Test-07": "Testing"
+    "Test_Key_04": "Updated",
+    "Test_Key_05": "Save updated",
+    "Test-07": "Testing updated"
 }
