@@ -1,0 +1,12 @@
+en:
+  app:
+    title: "Lokalise"
+    :yes: "Yes"
+    :no: "No"
+    egg:
+      one: "1 egg"
+      other: "{{count}} eggs"
+  template:
+    TripProposalUserEmail:
+      approved:
+        statement: "Your trip proposal, {{0}} has been approved by your manager. You can now book your trip!"
