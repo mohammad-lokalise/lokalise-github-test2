@@ -1,0 +1,7 @@
+app:
+    'no': 'No'
+    'yes': 'Yes updated'
+    'egg':
+        one: '1 egg'
+        other: '{{count}} eggs'
+    'title': Lokalise
