@@ -10,10 +10,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-WagtailLocalize-TranslationID: 397fc1f7-f16f-4b3c-bc13-d3d649cebeeb\n"
 
-#: src/main.c:55
 msgid "Hello, world!"
-msgstr "Bonjour, le monde!"
+msgstr "Hello, world."
 
-#: src/main.c:76
 msgid "File not found"
-msgstr "Fichier non trouvé"
+msgstr "File not found!"
